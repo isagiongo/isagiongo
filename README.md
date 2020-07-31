@@ -5,8 +5,8 @@ Meu nome é Isadora Giongo, sou desenvolvedora de software backend e co-fundador
 Eu moro em Porto Alegre-RS-Brasil e atualmente trabalho na [Ilegra](https://ilegra.com/). 
 
 <p align="left">
-  <a href="https://github.com/isagiongo"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-  <a href="https://linkedin.com/in/isadora-giongo"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+  <a href="https://github.com/isagiongo"><img alt="GitHub" title="GitHub" target="_blank" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/isadora-giongo"><img alt="LinkedIn" title="LinkedIn" target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## &#x270d; Artigos / Posts / Tutoriais
