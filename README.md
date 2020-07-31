@@ -11,7 +11,7 @@ Eu moro em Porto Alegre-RS-Brasil e atualmente trabalho na [Ilegra](https://ileg
 
 ## &#x270d; Artigos / Posts / Tutoriais
 
-Estou começando a escrever alguns artigos/tutoriais técnicos, que tem por objetivo ajudar quem está iniciando na área e tenho tentado fazer isso de uma forma simples, básica e didática. Eles ficarão basicamente aqui no [DEV.To](https://dev.to/devgirls) e eventualmente, aqui no  [Medium](https://medium.com/@isagiongo1) accounts.
+Estou começando a escrever alguns artigos/tutoriais técnicos, que tem por objetivo ajudar quem está iniciando na área e tenho tentado fazer isso de uma forma simples, básica e didática. Eles ficarão basicamente aqui no [DEV.To](https://dev.to/devgirls) e, eventualmente, aqui no  [Medium](https://medium.com/@isagiongo1).
 
 ## 🔧 Tecnologias & Ferramentas
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
