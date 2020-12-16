@@ -14,11 +14,16 @@ Eu moro em Porto Alegre-RS-Brasil e atualmente trabalho na [Ilegra](https://ileg
 Estou começando a escrever alguns artigos/tutoriais técnicos, que tem por objetivo ajudar quem está iniciando na área e tenho tentado fazer isso de uma forma simples, básica e didática. Eles ficarão basicamente aqui no [DEV.To](https://dev.to/devgirls) e, eventualmente, aqui no  [Medium](https://medium.com/@isagiongo1).
 
 ## 🔧 Tecnologias & Ferramentas
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Junit-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apachekafka&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 
 ## 🔭 Interessses 
 <p> :computer: Tech -> Diversidade e Mulheres em Tech | Java | Quarkus | Spring | Microservices | Kafka | Docker | Kubernets </p>
