@@ -2,7 +2,7 @@
 
 Meu nome é Isadora Giongo, sou desenvolvedora de software backend e co-fundadora do [Dev Girls](https://www.linkedin.com/company/dev-girls/), que é uma comunidade sem fins lucrativos para apoiar e empoderar mulheres que estão ou querem estar na área de desenvolvimento de software. Realizamos encontros exclusivos para todas as mulheres mensalmente.
 
-Eu moro em Porto Alegre-RS-Brasil e atualmente trabalho na [Ilegra](https://ilegra.com/). 
+Moro em Porto Alegre-RS-Brasil e atualmente trabalho no [EBANX](https://www.ebanx.com/br/). 
 
 <p align="left">
   <a href="https://github.com/isagiongo"><img alt="GitHub" title="GitHub" target="_blank" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a>
